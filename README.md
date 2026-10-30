@@ -1,2 +1,2 @@
 # My-Portfolio-Frontend-Developer
-Built with React
+My Portfolio | Frontend Developer - A personal portfolio website built using React JS, HTML, CSS, and JavaScript.
